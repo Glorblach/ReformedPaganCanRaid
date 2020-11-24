@@ -4,4 +4,4 @@ tags={
 	"Gameplay"
 }
 name="Reformed Pagan can raid"
-supported_version="1.1.*"
+supported_version="1.2.*"
