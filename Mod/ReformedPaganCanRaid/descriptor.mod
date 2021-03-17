@@ -1,7 +1,7 @@
-version="1.0.1"
+version="1.0.2"
 tags={
 	"Religion"
 	"Gameplay"
 }
 name="Reformed Pagan can raid"
-supported_version="1.2.*"
+supported_version="1.3.*"
